@@ -1,0 +1,162 @@
+@import url('https://fonts.googleapis.com/css2?family=Pathway+Gothic+One&family=Permanent+Marker&display=swap');
+body{font-family: 'Pathway Gothic One', sans-serif;
+background-color: rgb(97, 134, 236);
+ 
+ 
+ }
+.head{
+  background-image: url("https://i.pinimg.com/originals/da/58/27/da582791457dc1929269b9b2fd301eaa.jpg");
+    background-repeat: no-repeat;
+    padding: 0;
+    margin: 0;
+    margin-top:-2.8vw;
+    width: 100%;
+    margin-bottom:-21vw;
+    max-width: 100%;
+    height: 50vw;
+    background-size: 100% 100%;
+    
+ }
+
+
+ p{
+   margin-top:2vw;
+    font-size:10vw;
+   color:#89C2F7;
+   margin-left: 6vw;
+ }
+.site-header {
+ background: rgb(5,49,135);
+background: linear-gradient(90deg, rgba(5,49,135,0.4962359943977591) 7%, rgba(113,141,176,0.46262254901960786) 55%, rgba(1,1,1,0.36458333333333337) 75%);
+    -webkit-backdrop-filter: saturate(180%) blur(20px);
+    backdrop-filter: saturate(180%) blur(20px);
+   height: 100px;
+  }
+  .site-header a {
+      margin-top: 30px;
+    color: #d9dadf;
+    transition: ease-in-out color .15s;
+    font-size:25px;
+  }
+  .site-header a:hover {
+    color: rgb(0, 23, 126);
+    text-decoration: none;
+    transform:scale(1.1);
+  }
+  .barra{
+    border-top: rgb(2, 76, 136) solid 0.45vw;
+
+    background: rgb(38,48,54);
+    background: linear-gradient(90deg, rgba(38,48,54,1) 0%, rgba(0,32,51,1) 50%, rgba(38,48,54,1) 100%);
+margin-top: 20vw;
+padding: 17.7vw;
+width: 100%;
+max-width: 100%;
+  }
+  .segimg{
+    width: 100%;
+    height: 50vw;
+    background-image: url('https://image.winudf.com/v2/image1/Y29tLmJlc3QubGl2ZS53YWxscGFwZXIuYmFja2dyb3VuZHMuaGQudGhlbWUuZ2lybHkud2FsbHBhcGVycy5pbWFnZXMubHdwLmdhbGF4eS5zcGFjZS5zdGFycy5saXZlLndhbGxwYXBlcl9zY3JlZW5fN18xNTUwNzY4ODkyXzA2OQ/screen-7.jpg?fakeurl=1&type=.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    border-top: rgba(0,32,51,1) solid 0.45vw;
+  }
+  html{
+scroll-behavior: smooth;
+
+  }
+
+  .texto{
+   max-width: 40vw;
+   align-items: justify;
+    position: absolute;
+    font-size: 2.8vw;
+    margin-top: -14vw;
+    left:48vw;
+  }
+
+ .txt{
+   position: absolute;
+   font-size: 3.0vw;
+   color: rgb(215, 228, 227);
+   margin-top: 6vw;
+   left:2vw ;
+
+ }
+
+ .htmlicon{
+  position: absolute;
+  margin-top: 18vw;
+  width: 8vw;
+  left:8vw ;
+
+ }
+
+.cssicon{
+  position: absolute;
+  margin-top: 28vw;
+  width: 8vw;
+  left:8vw
+ 
+ }
+
+ .jsicon{
+position: absolute;
+margin-top: 18vw;
+width: 8vw;
+left:35vw
+
+ }
+
+ .phytonicon{
+   position: absolute;
+   margin-top: 28vw;
+   width: 8vw;
+   left: 35vw;
+
+
+ }
+
+ .csharpicon{
+position: absolute;
+margin-top:18vw ;
+width:8.5vw ;
+left:61.7vw;
+
+ }
+
+ .cplusicon{
+position: absolute;
+margin-top: 28vw;
+width: 6.4vw;
+left:62.8vw ;
+
+
+ }
+
+  .rodape{
+    background: rgb(0,0,0);
+    background: linear-gradient(90deg, rgba(0,0,0,0.958420868347339) 0%, rgba(14,0,0,1) 20%, rgba(33,0,0,1) 50%, rgba(14,0,0,1) 85%, rgba(0,0,0,0.958420868347339) 100%);
+border-top: rgb(37, 0, 0) solid 0.45vw;
+height: 15vw;
+
+
+  }
+  .gmailicon{
+   position: absolute;
+   width:4vw ;
+   align-content: center;
+  right: 50vw;
+  bottom:-95vw ;
+
+  }
+
+  .lasttxt{
+  position: absolute;
+  align-content: center;
+  right: 43vw;
+  font-size: 1.8vw;
+  margin-top:7vw;
+color:rgb(215, 228, 227);
+
+  }
